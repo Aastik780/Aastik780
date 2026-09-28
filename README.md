@@ -17,7 +17,7 @@ My GitHub contribution graph, but Pac-Man is eating it.
 
 ## 🧰 Things I build
 
-- 🎵 **[Discord Music Bot](https://github.com/Aastik780/Discord-music-bot)** — a `~` prefix music bot powered by yt-dlp + FFmpeg: themed now-playing cards, radio & 24/7 mode, audio filters, playlists, and a one-click Windows launcher. No Java, no Lavalink.
+- 🎵 **[Pulsee](https://github.com/Aastik780/Discord-music-bot)** — a `~` prefix music bot powered by the most powerful and premium Lavalink: themed now-playing cards, radio & 24/7 mode, audio filters, playlists, and a one-click Windows launcher.
 
 ## 📈 Stats
 
