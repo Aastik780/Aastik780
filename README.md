@@ -15,10 +15,6 @@ My GitHub contribution graph, but Pac-Man is eating it.
 
 <p align="center"><i><a href="https://github.com/Aastik780/pac-man-contribution-graph">Aastik/pacman-contribution-graph</a></i></p>
 
-## 🧰 Things I build
-
-- 🎵 **[Pulsee](https://github.com/Aastik780/Discord-music-bot)** — a `~` prefix music bot powered by the most powerful and premium Lavalink: themed now-playing cards, radio & 24/7 mode, audio filters, playlists, and a one-click Windows launcher.
-
 ## 📈 Stats
 
 ![Aastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aastik780&show_icons=true&theme=dark&hide_border=true)
