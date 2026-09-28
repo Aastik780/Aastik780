@@ -15,6 +15,64 @@ My GitHub contribution graph, but Pac-Man is eating it.
 
 <p align="center"><i><a href="https://github.com/Aastik780/pac-man-contribution-graph">Aastik/pacman-contribution-graph</a></i></p>
 
+<!-- Tech Stack Section (🛠️ | I Code With) -->
+<!-- 👀 Customization notes are inside the comments below.
+     To add/remove/replace an icon, just edit the <img> line(s) inside the grid.
+     To use your own icon, replace the `src` URL with a raw GitHub URL to your own SVG.
+---------------------------------------------------------------------------------->
+<div align="center">
+  <h2>🛠️ | I Code With</h2>
+  <p style="color:#888; font-size:0.9rem; margin:0.5rem 0;">Technologies I work with</p>
+
+  <!-- Responsive grid of tech icons – adjust column width if you want different size -->
+  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); gap:0.6rem; padding:0.5rem; justify-items:center;">
+    <!-- TypeScript -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-color.svg" alt="TypeScript" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- JavaScript -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-color.svg" alt="JavaScript" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- Python -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-color.svg" alt="Python" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- Java -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-color.svg" alt="Java" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- React -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- Next.js -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-icon.svg" alt="Next.js" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- Node.js -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-colored.svg" alt="Node.js" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- Django -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django.svg" alt="Django" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- PostgreSQL -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-color.svg" alt="PostgreSQL" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- MySQL -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-color.svg" alt="MySQL" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- MongoDB -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-color.svg" alt="MongoDB" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- Redis -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis.svg" alt="Redis" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- Docker -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-color.svg" alt="Docker" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- Kubernetes -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-color.svg" alt="Kubernetes" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- AWS -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/aws-color.svg" alt="AWS" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- Git -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <!-- GitHub -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg" alt="GitHub" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+  </div>
+
+  <!-- --------------------------------------------------------------
+       ✅ Quick edit guide (keep these comments, delete them later if you wish):
+       • To remove an icon:          delete its entire <img> line.
+       • To add a new icon:          copy any existing <img> line and change the `src` icon name + `alt` text.
+       • To use your own icon:       upload an SVG to your repo and replace the `src` URL with
+                                     `https://raw.githubusercontent.com/YOURUSER/YOURREPO/ PATH/TO/ YOURICON.svg`.
+       • To change size:             edit the `width`/`height` values in the `<img>` tag.
+       • To change gap/spacing:      edit the `gap:0.6rem` value in the parent <div>.
+  --------------------------------------------------------------
+  </div>
+
 ## 🧰 Things I build
 
 - 🎵 **[Pulsee](https://github.com/Aastik780/Discord-music-bot)** — a `~` prefix music bot powered by the most powerful and premium Lavalink: themed now-playing cards, radio & 24/7 mode, audio filters, playlists, and a one-click Windows launcher.
