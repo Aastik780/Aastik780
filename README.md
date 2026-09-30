@@ -3,35 +3,6 @@
   <p>Developer building Discord bots, automation tools, and fun side quests.</p>
 </div>
 
-## 🎮 Pac Man Contribution Graph
-
-My GitHub contribution graph, but Pac-Man is eating it.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aastik780/pac-man-contribution-graph/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aastik780/pac-man-contribution-graph/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Aastik780/pac-man-contribution-graph/output/pacman-contribution-graph.svg">
-</picture>
-
-<p align="center"><i><a href="https://github.com/Aastik780/pac-man-contribution-graph">Aastik/pacman-contribution-graph</a></i></p>
-
-
-
-## 🧰 Things I build
-
-- 🎵 **[Pulsee](https://github.com/Aastik780/Discord-music-bot)** — a `~` prefix music bot powered by the most powerful and premium Lavalink: themed now-playing cards, radio & 24/7 mode, audio filters, playlists, and a one-click Windows launcher.
-- 🕹️ **[Pac Man Contribution Graph](https://github.com/Aastik780/pac-man-contribution-graph)** — my GitHub contribution graph turned into an animated Pac-Man arcade, regenerated automatically every day by a GitHub Action.
-
-## 📈 Stats
-
-![Aastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aastik780&show_icons=true&theme=dark&hide_border=true)
-
----
-
-<p align="center">🕹️ <b>Waka waka.</b> Every square above is a day I shipped something.</p>
-
----
-
 <!-- Tech Stack Section (I Code With) -->
 <!-- 👀 Customization notes:
      • To remove an icon: delete its entire <img> line.
@@ -70,3 +41,34 @@ My GitHub contribution graph, but Pac-Man is eating it.
        • New tech: find its icon at https://devicons.github.io → copy the path.
   --------------------------------------------------------------- -->
 </div>
+
+
+## 🎮 Pac Man Contribution Graph
+
+My GitHub contribution graph, but Pac-Man is eating it.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aastik780/pac-man-contribution-graph/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aastik780/pac-man-contribution-graph/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Aastik780/pac-man-contribution-graph/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center"><i><a href="https://github.com/Aastik780/pac-man-contribution-graph">Aastik/pacman-contribution-graph</a></i></p>
+
+
+
+## 🧰 Things I build
+
+- 🎵 **[Pulsee](https://github.com/Aastik780/Discord-music-bot)** — a `~` prefix music bot powered by the most powerful and premium Lavalink: themed now-playing cards, radio & 24/7 mode, audio filters, playlists, and a one-click Windows launcher.
+- 🕹️ **[Pac Man Contribution Graph](https://github.com/Aastik780/pac-man-contribution-graph)** — my GitHub contribution graph turned into an animated Pac-Man arcade, regenerated automatically every day by a GitHub Action.
+
+## 📈 Stats
+
+![Aastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aastik780&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+<p align="center">🕹️ <b>Waka waka.</b> Every square above is a day I shipped something.</p>
+
+---
+
