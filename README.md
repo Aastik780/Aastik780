@@ -29,60 +29,60 @@ My GitHub contribution graph, but Pac-Man is eating it.
 ---
 
 <p align="center">🕹️ <b>Waka waka.</b> Every square above is a day I shipped something.</p>
-<!-- Tech Stack Section (🛠️ | I Code With) -->
-<!-- 👀 Customization notes are inside the comments below.
-     To add/remove/replace an icon, just edit the <img> line(s) inside the grid.
-     To use your own icon, replace the src URL with a raw GitHub URL to your own SVG.
+
+---
+
+<!-- Tech Stack Section (ðŸ› ï¸ | I Code With) -->
+<!-- ðŸ‘€ Customization notes:
+     â€¢ To remove an icon: delete its entire <img> line.
+     â€¢ To add/replace: copy an <img> line, change the icon path (last part of URL) + alt text.
+     â€¢ Icons are served from jsDelivr CDN (verified working on GitHub READMEs).
+     â€¢ Icon path format: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/FOLDER/FILE.svg
 ---------------------------------------------------------------------------------->
 <div align="center">
-  <h2>🛠️ | I Code With</h2>
+  <h2>ðŸ› ï¸ | I Code With</h2>
   <p style="color:#888; font-size:0.9rem; margin:0.5rem 0;">Technologies I work with</p>
 
-  <!-- Responsive grid of tech icons – adjust column width if you want different size -->
-  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); gap:0.6rem; padding:0.5rem; justify-items:center;">
+  <!-- Responsive grid of tech icons -->
+  <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(44px, 1fr)); gap:0.7rem; padding:0.5rem; justify-items:center; align-items:center;">
     <!-- TypeScript -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-color.svg" alt="TypeScript" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" style="width:38px; height:38px;">
     <!-- JavaScript -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-color.svg" alt="JavaScript" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="width:38px; height:38px;">
     <!-- Python -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-color.svg" alt="Python" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" style="width:38px; height:38px;">
     <!-- Java -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-color.svg" alt="Java" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" style="width:38px; height:38px;">
     <!-- React -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" style="width:38px; height:38px;">
     <!-- Next.js -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-icon.svg" alt="Next.js" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" style="width:38px; height:38px;">
     <!-- Node.js -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-colored.svg" alt="Node.js" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" style="width:38px; height:38px;">
     <!-- Django -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django.svg" alt="Django" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" title="Django" style="width:38px; height:38px;">
     <!-- PostgreSQL -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-color.svg" alt="PostgreSQL" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" style="width:38px; height:38px;">
     <!-- MySQL -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-color.svg" alt="MySQL" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" style="width:38px; height:38px;">
     <!-- MongoDB -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-color.svg" alt="MongoDB" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" style="width:38px; height:38px;">
     <!-- Redis -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis.svg" alt="Redis" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" title="Redis" style="width:38px; height:38px;">
     <!-- Docker -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-color.svg" alt="Docker" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" style="width:38px; height:38px;">
     <!-- Kubernetes -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-color.svg" alt="Kubernetes" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
-    <!-- AWS -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/aws-color.svg" alt="AWS" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" title="Kubernetes" style="width:38px; height:38px;">
+    <!-- AWS (wordmark logo â€” wider) -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" style="width:56px; height:38px;">
     <!-- Git -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="Git" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" style="width:38px; height:38px;">
     <!-- GitHub -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-plain.svg" alt="GitHub" style="width:40px; height:40px; border-radius:4px; filter: grayscale(1) brightness(1.2);">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" style="width:38px; height:38px;">
   </div>
 
-  <!-- --------------------------------------------------------------
-       ✅ Quick edit guide (keep these comments, delete them later if you wish):
-       • To remove an icon:          delete its entire <img> line.
-       • To add a new icon:          copy any existing <img> line and change the src icon name + lt text.
-       • To use your own icon:       upload an SVG to your repo and replace the src URL with
-                                     https://raw.githubusercontent.com/YOURUSER/YOURREPO/ PATH/TO/ YOURICON.svg.
-       • To change size:             edit the width/height values in the <img> tag.
-       • To change gap/spacing:      edit the gap:0.6rem value in the parent <div>.
-  -------------------------------------------------------------- -->
+  <!-- ----------------------- âœ… Edit guide -----------------------
+       â€¢ Icon added/removed? Just copy or delete an <img> line above.
+       â€¢ New tech: find its icon at https://devicons.github.io â†’ copy the path.
+  --------------------------------------------------------------- -->
 </div>
